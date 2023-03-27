@@ -12,6 +12,7 @@ const address = person.address;
 console.log(address);
 
 // bracket notation
+// we will use bracket notation in majority of cases
 // in bracket notation key should be put inside quotation
 const profession = person["profession"];
 console.log(profession);
